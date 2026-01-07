@@ -2,6 +2,8 @@ title: Episkopos
 description: Oversight for Community Resilience
 theme: minima
 
-# Optional: customize if needed
-# baseurl: ""
-# url: "https://bryanchriswhite.github.io"
+minima:
+  skin: auto  # Respects system dark/light preference
+
+plugins:
+  - jemoji  # Enable GitHub-style emoji rendering
